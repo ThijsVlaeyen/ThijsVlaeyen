@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThijsVlaeyen&count_private=true&show_icons=true" alt="GitHub Status"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThijsVlaeyen&include_all_commits=true&show_icons=true" alt="GitHub Status"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ThijsVlaeyen&show_icons=true&layout=compact" alt="Most Used Languages">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ThijsVlaeyen&show_icons=true&layout=compact" alt="Most Used Languages">
 </p>
 
