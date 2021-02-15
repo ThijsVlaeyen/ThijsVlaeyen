@@ -1,20 +1,10 @@
+<div align="center">
+  <h4> 
+    📊 My stats 📊
+  </h4>
+</div>
+<hr />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThijsVlaeyen&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Status"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ThijsVlaeyen&show_icons=true&layout=compact" alt="Most Used Languages">
-  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=ThijsVlaeyen" alt=Weekly Stats>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThijsVlaeyen&show_icons=true&theme=radical "/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThijsVlaeyen&theme=radical&layout=compact"/>
 </p>
-
-<!--
-**ThijsVlaeyen/ThijsVlaeyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
